@@ -11,7 +11,7 @@ Below are the assignments completed during my certificate program:
 Objective: The assignment primarily focuses on data manipulation and exploratory analysis using Pandas. I practicde filtering, sorting, feature engineering, aggregating data, and visualizing key metrics.
 Skills Demonstrated: Data importing, inspection, cleaning, filtering, sorting, feature engineering, data aggregation, and visualization
 Tools Used: Python, Matplotlib, NumPy, Seaborn, Jupyter Notebook
-
+[View Project on GitHub](https://github.com/joudisinjab/forest-fires)
 ### 2. Assignment 2: 
 Objective: 
 Skills Demonstrated: 
